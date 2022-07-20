@@ -2,3 +2,4 @@ tmp/todo.txt
 *.ali
 *.o
 *.html
+*.app
