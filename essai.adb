@@ -15,7 +15,7 @@ procedure essai is
 begin
    put_line("Hello !");
    for I in 1 .. 10 loop
-      Put_Line("Linux MacM1");
+      Text_Io.Put_Line("Linux MacM1");
    end loop;
 
 end essai;
