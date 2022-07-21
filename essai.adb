@@ -4,6 +4,7 @@
 -- Author: GA
 -- Date:   2022-07-20
 -- Purpose: git training
+-- Commentaire specifique branche_a_merge
 -------------------------------------------------------------------------------
 
 with text_io; use text_io;
